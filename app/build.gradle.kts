@@ -45,7 +45,7 @@ dependencies {
 android {
     namespace = "wskim.bookshop"
     compileSdk = 33
-    buildToolsVersion = "33.0.0 rc2"
+    buildToolsVersion = "34.0.0 rc3"
     ndkVersion = "25.1.8937393"
 
     defaultConfig {
